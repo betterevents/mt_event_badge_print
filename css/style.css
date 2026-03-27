@@ -82,9 +82,10 @@
 
 .mt-section-qr img {
   width: auto;
-  height: 2.5cm;
+  height: 4.5cm;
   display: inline-block;
   text-align: center;
+  margin-top: .3cm
 }
 
 .mt-section-qr h1 {
